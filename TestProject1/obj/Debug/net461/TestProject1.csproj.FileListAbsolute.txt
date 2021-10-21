@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\VIKO\3 Kursas\PSInzinerija\TicTacToe\TicTacGame\TestProject1\obj\Debug\net461\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\VIKO\3 Kursas\PSInzinerija\TicTacToe\TicTacGame\TestProject1\obj\Debug\net461\TestProject1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\VIKO\3 Kursas\PSInzinerija\TicTacToe\TicTacGame\TestProject1\obj\Debug\net461\TestProject1.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\VIKO\3 Kursas\PSInzinerija\TicTacToe\TicTacGame\TestProject1\obj\Debug\net461\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\VIKO\3 Kursas\PSInzinerija\TicTacToe\TicTacGame\TestProject1\obj\Debug\net461\TestProject1.csproj.AssemblyReference.cache

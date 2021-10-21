@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "u3hDFQk1IcviT0HDhnVF7nwf7iwV1yTYYz9tb7lkS+wH0vhxe2lOlKZQy+53kYPmJk+/vUwBBycYXGyJfvPexA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\VIKO\\3 Kursas\\PSInzinerija\\TicTacToe\\TicTacGame\\TestProject1\\TestProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.4\\microsoft.net.test.sdk.16.9.4.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

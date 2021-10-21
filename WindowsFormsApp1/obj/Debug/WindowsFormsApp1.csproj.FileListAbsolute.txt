@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\VIKO\3 Kursas\PSInzinerija\TicTacToe\TicTacGame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Game.resources
+C:\Users\ASUS\Desktop\VIKO\3 Kursas\PSInzinerija\TicTacToe\TicTacGame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Start.resources
+C:\Users\ASUS\Desktop\VIKO\3 Kursas\PSInzinerija\TicTacToe\TicTacGame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\VIKO\3 Kursas\PSInzinerija\TicTacToe\TicTacGame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\VIKO\3 Kursas\PSInzinerija\TicTacToe\TicTacGame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\VIKO\3 Kursas\PSInzinerija\TicTacToe\TicTacGame\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ASUS\Desktop\VIKO\3 Kursas\PSInzinerija\TicTacToe\TicTacGame\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ASUS\Desktop\VIKO\3 Kursas\PSInzinerija\TicTacToe\TicTacGame\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ASUS\Desktop\VIKO\3 Kursas\PSInzinerija\TicTacToe\TicTacGame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ASUS\Desktop\VIKO\3 Kursas\PSInzinerija\TicTacToe\TicTacGame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ASUS\Desktop\VIKO\3 Kursas\PSInzinerija\TicTacToe\TicTacGame\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
